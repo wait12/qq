@@ -1,0 +1,22 @@
+{
+    "title": "爱妃工具",
+    "swiperData": [
+        {
+            "imageUrl": "https://example.com/image1.jpg",
+            "title": "轮播图1标题",
+            "subtitle": "轮播图1副标题"
+        },
+        {
+            "imageUrl": "https://example.com/image2.jpg",
+            "title": "轮播图2标题",
+            "subtitle": "轮播图2副标题"
+        },
+        {
+            "imageUrl": "https://example.com/image3.jpg",
+            "title": "轮播图3标题",
+            "subtitle": "轮播图3副标题"
+        }
+    ],
+    "notice": "这是一个公告示例",
+    "motto": "Hello World"
+}
